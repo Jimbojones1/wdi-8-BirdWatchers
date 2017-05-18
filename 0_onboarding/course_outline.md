@@ -26,9 +26,8 @@
   - Store data in MongoDB as Collections using NoSQL
   - Build consumable REST APIs with Sinatra
   - Deploy services and consume the
-  - API Consumption with Angular.js
 * **Section 4: Chicago-Specific Content**
   - Learn skills focused for Chicago
   - Building single page applications (SPAs) with React.js
-  - Use Firebase as a real-time database for rapid development
+  - Bonus Lessons
   - Computer Science Fundamentals
