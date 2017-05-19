@@ -3,9 +3,9 @@
 ### Project weeks will not have outcomes, 
 the following monday will be half days, with outcome labs.
 
-5/29/17 - Chicago Tech Panel
+week 2 - tbd
 6/5/2017 - Personal Branding
-6/12 - ? Project week what day are we doing the networking/building
+6/12 - tbd
 6/19 - Outcomes half day, no programming
 6/26 - Resumer Pinup & Employer friendly github
 7/3 - no programming
