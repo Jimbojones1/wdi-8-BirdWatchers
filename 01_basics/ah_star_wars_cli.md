@@ -1,5 +1,6 @@
 # After Hours/Homework
 
+[JavascriptProblems](https://github.com/ga-chicago/JavascriptWeekOne/blob/master/README.md)
 
 ## Star Wars, the Command Line, and The Battle for the Fate of the Universe
 
