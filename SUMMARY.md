@@ -14,3 +14,4 @@
   * [Command Line Lab](01_basics/commandLineLab.md)
   * [Homework Command Line](01_basics/ah_star_wars_cli.md)
   * [Loop Morning Excercise](02_front_end/loopLab.md)
+  * [Function Homework 5/24](02_front_end/BeginnerFunctionPractice.md)
