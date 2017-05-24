@@ -45,22 +45,3 @@ the name of each property.
 
 11. `var zeppelin = ["In through the out door", "Zep 1", "Zep 2", "Zep3", "Zep4", "Physical Graffiti"]`
 
-### Homework Questions:
-
-1. Write a JavaScript for loop that will iterate from 0 to 20. For each iteration, it will check if the current number is odd or even, and display a message to the screen.
-
-3. Write a JavaScript program which iterates the integers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
-
-4. Write a JavaScript program to construct the following pattern.
-
-	x  
-	xx  
-	xxx  
-	xxxx  
-	xxxxx
-
-5. Print each of the keys and values from the following object: {a:1, b:2, c:3}
-
-6. Create a loop that "sings" the song 99 bottles of beer on the wall. The song repeats in this fashion until there are 0 bottles on the wall:
-"99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around, 98 bottles of beer on the wall."
-"98 bottles of beer on the wall, 98 bottles of beer. Take one down, pass it around, 97 bottles of beer on the wall."
