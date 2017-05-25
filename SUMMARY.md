@@ -23,4 +23,4 @@
   * [functions](02_front_end/functions.md)
   * [arrays](02_front_end/arrays.md)
   * [selectors](02_front_end/selector.md)
-  * [Layout Homework](02_front/cssChallenge.md)
+  * [Layout Homework](02_front_end/cssChallenge.md)
