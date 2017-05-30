@@ -29,5 +29,5 @@
   * [Function Homework 5/24](02_front_end/BeginnerFunctionPractice.md)
   * [Layout Homework](02_front_end/cssChallenge.md)
   * [Layout Homework](02_front_end/cssChallenge.md)
-* [Intermediate Frontend]
+* Intermediate Frontend
   * [Fellowship Answers](02_front_end/FellowShipAnswers.md)
