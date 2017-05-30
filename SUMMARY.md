@@ -30,6 +30,3 @@
   * [Layout Homework](02_front_end/cssChallenge.md)
   * [Layout Homework](02_front_end/cssChallenge.md)
 * Intermediate Frontend
-  * [Fellowship Answers](02_front_end/FellowShipAnswers.md)
-  * [Constructors](02_front_end/d03-constructors.md)
-  * [Tomagotchi Mini Project](02_front_end/tomagotchi.md)
