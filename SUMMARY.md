@@ -32,3 +32,4 @@
   * [Fellowship Answers](02_front_end/FellowShipAnswers.md)
   * [Constructors](02_front_end/d03-constructors.md)
   * [Tomagotchi Mini Project](02_front_end/tomagotchi.md)
+  * [Monday Reading](02_front_end/monday_reading.md)
