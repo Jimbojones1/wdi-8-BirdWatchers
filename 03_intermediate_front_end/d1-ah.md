@@ -1,6 +1,6 @@
 # Thursday Homework
 
-[Homework Repo](https://github.com/ga-chicago/javascript-reps)
+[Homework Repo](https://github.com/ga-chicago/js-reps)
 
 ## Round 1
 
