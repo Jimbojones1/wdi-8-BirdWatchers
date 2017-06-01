@@ -1,4 +1,4 @@
-# Monday Homework
+# Thursday Homework
 
 [Homework Repo](https://github.com/ga-chicago/javascript-reps)
 
@@ -145,6 +145,6 @@ doSomethingWithFunctions(logSomething);
 
 ---
 
-####Submitting this Assignment
+#### Submitting this Assignment
 - To submit this assignment create a pull request when you have completed
 this assignment.

@@ -19,7 +19,6 @@
 - DOM traversal
 - Event Handling
 - Ajax interactions
-- Event Handling
 
 #### How to include jQuery into an app
 - Include using CDN or local file

@@ -35,3 +35,4 @@
   * [Monday Reading](02_front_end/monday_reading.md)
   * [jQuery](03_intermediate_front_end/jQuery.md)
   * [jQuery Fellowship Answers](03_intermediate_front_end/jQueryFellowshipAnswer.md)
+  * [JS Reps Challenge HW](03_intermediate_front_end/d1-ah.md)
