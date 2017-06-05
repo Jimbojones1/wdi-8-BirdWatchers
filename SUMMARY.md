@@ -36,3 +36,6 @@
   * [jQuery](03_intermediate_front_end/jQuery.md)
   * [jQuery Fellowship Answers](03_intermediate_front_end/jQueryFellowshipAnswer.md)
   * [JS Reps Challenge HW](03_intermediate_front_end/d1-ah.md)
+  * [AJAX](03_intermediate_front_end/ajax.md)
+  * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
+  * [Monday Homework](03_intermediate_front_end/monday_homework.md)
