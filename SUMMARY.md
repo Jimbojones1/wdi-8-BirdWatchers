@@ -39,3 +39,6 @@
   * [AJAX](03_intermediate_front_end/ajax.md) 
   * [Monday Homework](03_intermediate_front_end/monday_homework.md)
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
+* [Project 1](03_intermediate_front_end/projectGame.md)
+  * [Wireframes](03_intermediate_front_end/wireframe.md)
+  * [Wireframe Lab](03_intermediate_front_end/wireframeLab.md)
