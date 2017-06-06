@@ -38,5 +38,4 @@
   * [JS Reps Challenge HW](03_intermediate_front_end/d1-ah.md)
   * [AJAX](03_intermediate_front_end/ajax.md) 
   * [Monday Homework](03_intermediate_front_end/monday_homework.md)
-  <!--   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
- -->  
+  * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
