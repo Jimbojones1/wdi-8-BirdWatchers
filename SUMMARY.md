@@ -46,3 +46,4 @@
   * [Node Servers](04_Node/nodeServers.md)
   * [Modules](04_Node/modules.md)
   * [Module Lab](04_Node/cars.md)
+  * [Node Module Homework](04_Node/homeworkMovieModule.md)
