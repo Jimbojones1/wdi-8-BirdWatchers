@@ -43,3 +43,6 @@
   * [Wireframes](03_intermediate_front_end/wireframe.md)
   * [Wireframe Lab](03_intermediate_front_end/wireframeLab.md)
 * [Node](04_Node/intro_to_node.md)
+  * [Node Servers](04_Node/nodeServers.md)
+  * [Modules](04_Node/modules.md)
+  * [Module Lab](04_Node/cars.md)
