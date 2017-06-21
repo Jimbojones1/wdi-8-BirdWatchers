@@ -47,3 +47,12 @@
   * [Modules](04_Node/modules.md)
   * [Module Lab](04_Node/cars.md)
   * [Node Module Homework](04_Node/homeworkMovieModule.md)
+  * [Express](05_node_week/express.md)
+  * [Basic Express Server](05_node_week/basicServerApp.md)
+  * [MVC](05_node_week/mvc.md)
+  * [Node Event Loop](05_node_week/NodeEventLoop.md)
+  * [Less](05_node_week/less.md)
+  * [Gulp Scratch](05_node_week/gulp_from_scratch.md)
+  * [Gulp](05_node_week/gulp_api.md)
+
+
