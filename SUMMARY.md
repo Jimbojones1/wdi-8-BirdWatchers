@@ -58,4 +58,9 @@
   * [SQL V NoSQL](06_Express_Models/databeses.md)
   * [Mongoose](06_Express_Models/mongoose.md)
   * [Mongoose Schemmmma](06_Express_Models/mongooseSchema.md)
+* [Project 2](06_Express_Models/Project2.md)
+  * [Partners](06_Express_Models/projectGroups.md)
+  * [Git Exercise](06_Express_Models/gitExercise.md)
+  * [Git Workflow](06_Express_Models/gitWorkFlow.md)
+  
 

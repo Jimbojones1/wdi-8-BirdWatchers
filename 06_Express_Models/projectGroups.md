@@ -1,15 +1,11 @@
 ## Groups
 
-1.  slouhage - Jeff
+1. Payne - Greg
 
-2.  terry - bridget - Nate
+2. Jackson - David
 
-3.  Matias - ann
+3. Julian - Lindsey
 
-4. mike - jason
+4. Benn - Sam
 
-5.  john - reuben
-
-6.  ben - naomi
-
-7.  katelyn- chris
+5. Ayo - Annie
