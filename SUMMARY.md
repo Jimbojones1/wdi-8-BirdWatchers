@@ -62,5 +62,6 @@
   * [Partners](06_Express_Models/projectGroups.md)
   * [Git Exercise](06_Express_Models/gitExercise.md)
   * [Git Workflow](06_Express_Models/gitWorkFlow.md)
+* [Deployment](06_Express_Models/deploymentHeroku.md)
   
 
