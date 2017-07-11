@@ -36,7 +36,7 @@
   * [jQuery](03_intermediate_front_end/jQuery.md)
   * [jQuery Fellowship Answers](03_intermediate_front_end/jQueryFellowshipAnswer.md)
   * [JS Reps Challenge HW](03_intermediate_front_end/d1-ah.md)
-  * [AJAX](03_intermediate_front_end/ajax.md) 
+  * [AJAX](03_intermediate_front_end/ajax.md)
   * [Monday Homework](03_intermediate_front_end/monday_homework.md)
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
 * [Project 1](03_intermediate_front_end/projectGame.md)
@@ -64,5 +64,9 @@
   * [Git Workflow](06_Express_Models/gitWorkFlow.md)
 * [Deployment](06_Express_Models/deploymentHeroku.md)
 * [Quiz](08_ruby_sinatra/Quiz.md)
-  
-
+* [Ruby](08_ruby_sinatra/d01_types.md)
+  *  [Conditionals](08_ruby_sinatra/d01_conditionals.md)
+  *  [Strings Arrays Hashes](08_ruby_sinatra/d01_string_array_hash.md)
+  *  [Enumeration](08_ruby_sinatra/d01_string_array_hash.md)
+  *  [Quotes](08_ruby_sinatra/d01-single-double-quotes.md)
+  *  [Homework Revenge of Reps](08_ruby_sinatra/objectReps.md)
