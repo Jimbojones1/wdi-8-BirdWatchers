@@ -64,5 +64,8 @@
   * [Git Workflow](06_Express_Models/gitWorkFlow.md)
 * [Deployment](06_Express_Models/deploymentHeroku.md)
 * [Quiz](08_ruby_sinatra/Quiz.md)
+  *[Class](08_ruby_sinatra/classes.md)
+  *[Inheritance](08_ruby_sinatra/inheritance.md)
+  *[Methods](08_ruby_sinatra/methods.md)
   
 
