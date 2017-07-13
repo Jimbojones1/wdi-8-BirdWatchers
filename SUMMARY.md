@@ -73,3 +73,4 @@
   * [Class](08_ruby_sinatra/classes.md)
   * [Inheritance](08_ruby_sinatra/inheritance.md)
   * [Methods](08_ruby_sinatra/methods.md)
+* [SQL](08_ruby_sinatra/sqlpost.md)
