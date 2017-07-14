@@ -75,3 +75,4 @@
   * [Methods](08_ruby_sinatra/methods.md)
 * [SQL](08_ruby_sinatra/sqlpost.md)
   *[Postgres Cheatsheet](08_ruby_sinatra/postgresCheatSheet.md)
+  *[Active Record](08_ruby_sinatra/active_record.md)
