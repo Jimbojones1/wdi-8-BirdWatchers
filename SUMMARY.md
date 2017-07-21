@@ -67,6 +67,5 @@
 * [Ruby](08_ruby_sinatra/d01_types.md)
   *  [Conditionals](08_ruby_sinatra/d01_conditionals.md)
   *  [Strings Arrays Hashes](08_ruby_sinatra/d01_string_array_hash.md)
-  *  [Enumeration](08_ruby_sinatra/d01_string_array_hash.md)
   *  [Quotes](08_ruby_sinatra/d01-single-double-quotes.md)
   *  [Homework Revenge of Reps](08_ruby_sinatra/objectReps.md)
