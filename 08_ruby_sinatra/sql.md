@@ -6,7 +6,7 @@ All relational databases are controlled using SQL. Some databases make slight ch
 
 We use SQL to define database schemas and to send queries.
 
-## Starting/Stopping/Restarting MySQL
+<!-- ## Starting/Stopping/Restarting MySQL
 
 To start, stop, or restart MySQL you can run one of these commands:
 
@@ -18,7 +18,7 @@ mysql.server restart
 
 Once the MySQL server daemon (program that runs in the background) is running you can access the CLI (or REPL) by running `mysql -u <username>`. By default a MySQL installation on a development machine will have a user named `root` with no password. In production you should create a unique user that only has permissions to edit the databases that you specify for security purposes.
 
-Log into the MySQL command line by running `mysql -u root`
+Log into the MySQL command line by running `mysql -u root` -->
 
 ## Schemas
 
