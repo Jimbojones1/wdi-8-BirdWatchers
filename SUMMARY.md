@@ -76,3 +76,4 @@
   *[Postgres Cheatsheet](08_ruby_sinatra/postgresCheatSheet.md)
   *[Active Record](08_ruby_sinatra/active_record.md)
   *[Mapping Routes](08_ruby_sinatra/mappingRoutes.md)
+* [Project 3](08_ruby_sinatra/Project3.md)
