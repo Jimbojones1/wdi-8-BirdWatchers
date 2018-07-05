@@ -1,6 +1,6 @@
-## Exercise: Modules
+## Homework: Modules
 
-Partner up with your neighbor - your task is to make a module together (`Car.js`) and that defines a car – with both properties and functions – and export it as a module to an `index.js` file.
+- your task is to make a module together (`Car.js`) and that defines a car – with both properties and functions – and export it as a module to an `index.js` file.
 
 In the `Car.js` file:
 
